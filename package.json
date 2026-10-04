@@ -1,0 +1,7 @@
+{
+  "name": "isjoyas-app",
+  "private": true,
+  "type": "module",
+  "description": "App de gestión de IS Joyas (Ignacio Sargiotto Joyería)",
+  "engines": { "node": ">=20" }
+}
